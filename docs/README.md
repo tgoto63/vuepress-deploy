@@ -1,9 +1,13 @@
 ---
-sidebar: auto
 title: Markdown examples
 ---
 # Markdown examples
 Edit on 30.04.2018 with NetlifyCMS
+
+### test 
+- aaa
+- bbb
+- ccc
 
 # h1 HmHm 8-)
 
